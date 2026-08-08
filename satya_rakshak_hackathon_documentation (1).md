@@ -75,7 +75,7 @@ SatyaRakshak answers that question by running two parallel models and fusing the
 
 ## 3. System Architecture
 
-![SatyaRakshak Architecture Diagram](architecture_diagram.jpg)
+
 
 *Figure 1 — Full 7-stage hybrid pipeline: Supervised content path (top) feeds into the Unsupervised behaviour path (bottom), with both scores fused into the final moderation queue.*
 
@@ -355,5 +355,5 @@ timeline
 | **Source code & notebook** | [`SatyaRakshak_model.ipynb`](https://github.com/aadish8206/SatyaRakshak) | Full training, evaluation, and simulation pipeline |
 | **GitHub repository** | [github.com/aadish8206/SatyaRakshak](https://github.com/aadish8206/SatyaRakshak) | All source files |
 | **Presentation** | `satya_rakshak_newspaper_presentation_v2_pptx.pdf` | Hackathon pitch deck |
-| **Architecture diagram** | `architecture_diagram.jpg` | High-resolution pipeline visual |
+
 | **Contact** | Aadish Dighe — `aadish.dighe_comp24@pccoer.in` | Team lead & primary contact |
